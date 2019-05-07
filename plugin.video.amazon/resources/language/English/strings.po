@@ -29,7 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.\nThis Addon uses pyDes by Todd Whiteman"
 msgstr ""
 
-
 msgctxt "#30001"
 msgid "Amazon Account"
 msgstr ""
@@ -47,7 +46,7 @@ msgid "Sign In..."
 msgstr ""
 
 msgctxt "#30005"
-msgid "Enable Subtitles"
+msgid "Subtitles languages"
 msgstr ""
 
 msgctxt "#30006"
@@ -118,15 +117,7 @@ msgctxt "#30022"
 msgid "Start after 5 minutes of idle"
 msgstr ""
 
-msgctxt "#30023"
-msgid "Switch Audiotrack, if not valid (experimental)"
-msgstr ""
-
-msgctxt "#30024"
-msgid "Language"
-msgstr ""
-
-#empty strings from id 30025 to 30026
+#empty strings from id 30023 to 30026
 
 msgctxt "#30027"
 msgid "Multi User Support"
@@ -340,7 +331,27 @@ msgctxt "#30082"
 msgid "Mediasource TV Title"
 msgstr ""
 
-#empty strings from id 30082 to 30099
+msgctxt "#30083"
+msgid "None"
+msgstr ""
+
+msgctxt "#30084"
+msgid "All"
+msgstr ""
+
+msgctxt "#30085"
+msgid "From Kodi player language settings"
+msgstr ""
+
+msgctxt "#30086"
+msgid "From settings, fallback to english"
+msgstr ""
+
+msgctxt "#30087"
+msgid "From settings, fallback to all"
+msgstr ""
+
+#empty strings from id 30088 to 30099
 
 msgctxt "#30100"
 msgid "Popular"

@@ -26,7 +26,7 @@ msgid "Movies and Television Shows for Prime Members"
 msgstr ""
 
 msgctxt "Addon Disclaimer"
-msgid "Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing.\nThis Addon uses pyDes by Todd Whiteman"
+msgid "Some parts of this addon may not be legal in your country of residence – please check with your local laws before installing.\nThis Addon uses pyDes by Todd Whiteman"
 msgstr ""
 
 msgctxt "#30001"
@@ -46,7 +46,7 @@ msgid "Stream Bitrate (0 - Ask)"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Subtitles languages"
+msgid "Audio descriptions (disables 5.1/7.1)"
 msgstr ""
 
 msgctxt "#30006"
@@ -110,30 +110,18 @@ msgid "Enable DRM check"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Switch Audiotrack, if not valid (experimental)"
+msgid "Language"
 msgstr ""
 
 msgctxt "#30022"
 msgid "Keep me logged in"
 msgstr ""
 
-msgctxt "#30023"
-msgid "None"
-msgstr ""
+#empty strings from id 30023 to id 30027
 
-msgctxt "#30024"
-msgid "All"
+msgctxt "#30028"
+msgid "Stretching"
 msgstr ""
-
-msgctxt "#30025"
-msgid "Kodi setting otherwise english"
-msgstr ""
-
-msgctxt "#30026"
-msgid "Kodi setting otherwise all"
-msgstr ""
-
-#empty strings from id 30027 to 30029
 
 msgctxt "#30029"
 msgid "Movie View"
@@ -151,13 +139,19 @@ msgctxt "#30032"
 msgid "Episode View"
 msgstr ""
 
-#empty strings from id 30033 to 30034
+msgctxt "#30033"
+msgid "Audio"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Subtitles"
+msgstr ""
 
 msgctxt "#30035"
 msgid "Enable Views"
 msgstr ""
 
-#empty strings id 30036
+#empty string with id 30036
 
 msgctxt "#30037"
 msgid "Disable SSL Certificate Verification"
@@ -314,52 +308,10 @@ msgid "Title Descending"
 msgstr ""
 
 msgctxt "#30080"
-msgid "Choose Country"
+msgid "Automatically Watchlist export"
 msgstr ""
 
-msgctxt "#30081"
-msgid "Germany"
-msgstr ""
-
-msgctxt "#30082"
-msgid "United Kingdom"
-msgstr ""
-
-msgctxt "#30083"
-msgid "USA"
-msgstr ""
-
-msgctxt "#30084"
-msgid "Japan"
-msgstr ""
-
-msgctxt "#30085"
-msgid "Other (primevideo.com)"
-msgstr ""
-
-#empty strings from id 30086 to 30089
-
-msgctxt "#30090"
-msgid "PrimeVideo Area"
-msgstr ""
-
-msgctxt "#30091"
-msgid "ROE_EU"
-msgstr ""
-
-msgctxt "#30092"
-msgid "ROW_EU"
-msgstr ""
-
-msgctxt "#30093"
-msgid "ROW_FE"
-msgstr ""
-
-msgctxt "#30094"
-msgid "ROW_NA"
-msgstr ""
-
-#empty strings from id 30095 to 30099
+#empty strings from id 30081 to 30099
 
 msgctxt "#30100"
 msgid "Library"
@@ -647,7 +599,11 @@ msgctxt "#30218"
 msgid "Due changes at Amazon's DRM encryption, it's not possible to use Inputstream for this video.\nPlease configure the fallback option in Settings, to use another Playback method."
 msgstr ""
 
-#empty strings from id 30218 to 30249
+msgctxt "#30219"
+msgid "Unable to retrieve Amazon's territorial configuration."
+msgstr ""
+
+#empty strings from id 30220 to 30249
 
 msgctxt "#30251"
 msgid "Connection error"
